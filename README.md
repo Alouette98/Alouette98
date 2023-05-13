@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: maildengchg@gmail.com
-- 🌱 My portfolio: chgdeng.com
+- 🌱 My portfolio: [chgdeng.com](https://chgdeng.com)
 
 <!--
 **Alouette98/Alouette98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
