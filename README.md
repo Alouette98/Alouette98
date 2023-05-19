@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔧 Tech Stack: Python, C#, Java, C/C++ ...
+- ⚡ Machine Learning, VR/AR, Unity, ...
+- Interested in opportunities in Tech, FinTech, Game area
 - 📫 How to reach me: maildengchg@gmail.com
 - 🌱 My portfolio: [chgdeng.com](https://chgdeng.com)
 
